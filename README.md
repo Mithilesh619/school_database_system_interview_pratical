@@ -1,0 +1,2 @@
+# school_database_system_interview_pratical
+school_database_system_interview_pratical
